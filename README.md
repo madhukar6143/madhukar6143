@@ -1,16 +1,56 @@
-### Hi there 👋
+# Hi, I'm Madhukar 👋
+I am a React Developer based in Hyderabad, India.
 
-<!--
-**madhukar6143/madhukar6143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📄 [My Resume (Google Drive)](resume-google-drive-link)
 
-Here are some ideas to get you started:
+## About Me
+- 📞 Contact: +91-9133759126
+- 📍 Location: Hyderabad, India
+- 📧 Email: [madhukar.eppalapelly@gmail.com](mailto:madhukar.eppalapelly@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- 📂 [GitHub](https://github.com/your-github-profile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- Bachelor of Technology in Computer Science, VNRVJIET, Hyderabad (2019-2023)
+  - CGPA: 8.02/10
+- 10+2 (Science), Sri Chaitanya Junior College, Hyderabad
+  - Percentage: 96.2%
+
+## Skills
+- Technical: C, C++, JavaScript, HTML, React, Angular, Node.js, SQL, MongoDB, MySQL, Git, GitHub
+- Non-Technical: Teamwork, Leadership, Critical Thinking, Problem Solving, Communication, Interpersonal Skills
+
+## Work Experience
+### React Frontend Developer at Sakhyaa.com (Aug 2021 - Nov 2021)
+- Designed landing page for the website.
+- Collaborated with cross-functional teams and met project deadlines.
+- Utilized Git, npm, yarn, and webpack.
+
+### Node.js Developer at Seneca Global (Feb 2023 - Apr 2023)
+- Developed and maintained RESTful API services using Node.js, Express.js, and MongoDB.
+- Ensured security using Joi, bcrypt, and JWT.
+- Installed new API endpoints for internal web applications.
+
+## Projects
+- Delish Restaurant: [Source Code](source-code-link) | [Website Link](website-link)
+  - Full-stack restaurant application using Angular, Express, and Node.js.
+
+- SymptoDiag Disease Prediction: [Source Code](source-code-link) | [Website Link](website-link)
+  - Collaborated on a Node.js project for disease prediction.
+
+- Speech Detection from Lip Sync using Deep Learning
+  - Developed a system to accurately detect spoken words based on lip movements.
+
+- Coding Calendar: [Source Code](source-code-link) | [Website Link](website-link)
+  - Created a coding contest calendar application using the MEAN stack.
+
+- Personal Portfolio: [Website Link](website-link)
+
+- To Do with Redux: [Source Code](source-code-link) | [Website Link](website-link)
+
+## Extra-Curricular Activities
+- Earned income through tutoring on Chegg.com, solving advanced calculus problems.
+- Secured district rank 1 in an exam conducted by Vision 40 IIT Academy.
+- Completed 34 Pramp sessions to enhance skills in data structures and communication for technical interviews.
+- Accomplished cricketer with the ability to bowl continuously at 130 km/hr.
+- Played 1566 games of chess on Chess.com, achieving a highest rating of 999.
