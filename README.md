@@ -35,7 +35,7 @@ I am a React Developer based in Hyderabad, India.
 - Delish Restaurant: [https://github.com/madhukar6143/delishbackend] | [https://delish-restaurant.netlify.app/]
   - Full-stack restaurant application using Angular, Express, and Node.js.
 
-- SymptoDiag Disease Prediction: [Source Code](source-code-link) | [Website Link](website-link)
+- SymptoDiag Disease Prediction: [Source Code](source-code-link) | [https://disease-prediction-seneca-project.netlify.app]
   - Collaborated on a Node.js project for disease prediction.
 
 - Speech Detection from Lip Sync using Deep Learning
