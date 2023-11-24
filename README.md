@@ -32,7 +32,7 @@ I am a React Developer based in Hyderabad, India.
 - Installed new API endpoints for internal web applications.
 
 ## Projects
-- Delish Restaurant: [Source Code](source-code-link) | [Website Link](website-link)
+- Delish Restaurant: [https://github.com/madhukar6143/delishbackend] | [https://delish-restaurant.netlify.app/]
   - Full-stack restaurant application using Angular, Express, and Node.js.
 
 - SymptoDiag Disease Prediction: [Source Code](source-code-link) | [Website Link](website-link)
