@@ -34,6 +34,9 @@ I am a React Developer based in Hyderabad, India.
 ## Projects
 - Delish Restaurant: [https://github.com/madhukar6143/delishbackend] | [https://delish-restaurant.netlify.app/]
   - Full-stack restaurant application using Angular, Express, and Node.js.
+    
+- Aviation Website: [Source Code](source-code-link) | [https://aviation-components.netlify.app/]
+  - Full-stack  application using React, Express, and Node.js.
 
 - SymptoDiag Disease Prediction: [Source Code](source-code-link) | [https://disease-prediction-seneca-project.netlify.app]
   - Collaborated on a Node.js project for disease prediction.
@@ -43,9 +46,6 @@ I am a React Developer based in Hyderabad, India.
 
 - Coding Calendar: [Source Code](source-code-link) | [Website Link](website-link](https://contest-calendar.netlify.app/#/home)]
   - Created a coding contest calendar application using the MEAN stack.
- 
-- Aviation Website: [Source Code](source-code-link) | [https://aviation-components.netlify.app/]
-  - Full-stack  application using React, Express, and Node.js.
 
 - Personal Portfolio: [https://madhukar-eppalapelly.netlify.com]
 
