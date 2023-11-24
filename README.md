@@ -41,13 +41,13 @@ I am a React Developer based in Hyderabad, India.
 - Speech Detection from Lip Sync using Deep Learning
   - Developed a system to accurately detect spoken words based on lip movements.
 
-- Coding Calendar: [Source Code](source-code-link) | [Website Link](website-link)
+- Coding Calendar: [Source Code](source-code-link) | [Website Link](website-link](https://contest-calendar.netlify.app/#/home)]
   - Created a coding contest calendar application using the MEAN stack.
  
 - Aviation Website: [Source Code](source-code-link) | [https://aviation-components.netlify.app/]
   - Full-stack  application using React, Express, and Node.js.
 
-- Personal Portfolio: [Website Link](website-link)
+- Personal Portfolio: [https://madhukar-eppalapelly.netlify.com]
 
 - To Do with Redux: [Source Code](source-code-link) | [Website Link](website-link)
 
