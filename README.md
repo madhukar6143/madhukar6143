@@ -1,7 +1,7 @@
 # Hi, I'm Madhukar 👋
-I am a React Developer based in Hyderabad, India.
+I am a MERN Developer based in Hyderabad, India.
 
-📄 [My Resume (Google Drive)](https://drive.google.com/file/d/1sKarL1DoL6S5WVHUAEh9Sn923eWhxfMK/view?usp=drivesdk )
+📄 [My Resume](https://drive.google.com/file/d/1LNz7LlnD2ZvqaopJoTUrVVRBrEM0MMSK/view?usp=drive_link)
 
 ## About Me
 - 📞 Contact: +91-9133759126
