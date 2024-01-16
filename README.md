@@ -7,8 +7,8 @@ I am a MERN Developer based in Hyderabad, India.
 - 📞 Contact: +91-9133759126
 - 📍 Location: Hyderabad, India
 - 📧 Email: [madhukar.eppalapelly@gmail.com](mailto:madhukar.eppalapelly@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- 📂 [GitHub](https://github.com/your-github-profile)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/madhukar-eppalapelly-b31197191/)
+- 📂 [GitHub](https://github.com/madhukar6143)
 
 ## Education
 - Bachelor of Technology in Computer Science, VNRVJIET, Hyderabad (2019-2023)
@@ -34,22 +34,22 @@ I am a MERN Developer based in Hyderabad, India.
 ## Projects
 - Delish Restaurant: [https://github.com/madhukar6143/delishbackend] | [https://delish-restaurant.netlify.app/]
   - Full-stack restaurant application using Angular, Express, and Node.js.
-    
-- Aviation Website: [Source Code](source-code-link) | [https://aviation-components.netlify.app/]
-  - Full-stack  application using React, Express, and Node.js.
 
 - SymptoDiag Disease Prediction: [Source Code](source-code-link) | [https://disease-prediction-seneca-project.netlify.app]
   - Collaborated on a Node.js project for disease prediction.
 
+- Aviation Website: [Source Code](source-code-link) | [https://aviation-components.netlify.app/]
+  - Full-stack  application using React, Express, and Node.js.
+
 - Speech Detection from Lip Sync using Deep Learning
   - Developed a system to accurately detect spoken words based on lip movements.
 
-- Coding Calendar: [Source Code](source-code-link) | [Website Link](website-link](https://contest-calendar.netlify.app/#/home)]
+- Coding Calendar: [Website Link](website-link](https://contest-calendar.netlify.app/#/home)]
   - Created a coding contest calendar application using the MEAN stack.
 
 - Personal Portfolio: [https://madhukar-eppalapelly.netlify.com]
 
-- To Do with Redux: [Source Code](source-code-link) | [Website Link](website-link)
+- To Do with Redux: | [Website Link](website-link)
 
 ## Extra-Curricular Activities
 - Earned income through tutoring on Chegg.com, solving advanced calculus problems.
