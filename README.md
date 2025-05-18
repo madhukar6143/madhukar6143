@@ -37,7 +37,7 @@ I am a MERN Developer based in Hyderabad, India.
 - Installed new API endpoints for internal web applications.
 
 ## Projects
-- Personal Portfolio: [https://madhukar-eppalapelly.netlify.com]
+- Personal Portfolio: [https://madhukar-eppalapelly.netlify.app/]
 - 
 - Delish Restaurant: [https://github.com/madhukar6143/delishbackend] | [https://delish-restaurant.netlify.app/]
   - Full-stack restaurant application using Angular, Express, and Node.js.
