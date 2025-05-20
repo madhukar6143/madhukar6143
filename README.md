@@ -38,7 +38,7 @@ I am a MERN Developer based in Hyderabad, India.
 
 ## Projects
 - Personal Portfolio: [https://madhukar-eppalapelly.netlify.app/]
-- 
+
 - Delish Restaurant: [https://github.com/madhukar6143/delishbackend] | [https://delish-restaurant.netlify.app/]
   - Full-stack restaurant application using Angular, Express, and Node.js.
 
@@ -51,10 +51,10 @@ I am a MERN Developer based in Hyderabad, India.
 - Speech Detection from Lip Sync using Deep Learning
   - Developed a system to accurately detect spoken words based on lip movements.
 
-- Coding Calendar: Website Link]
+- Coding Calendar: [https://contest-calendar.netlify.app/#/home]
   - Created a coding contest calendar application using the MEAN stack.
 
-- To Do with Redux: | Website Link
+- To Do with Redux: | [https://todo-practice-redux.netlify.app/]
 
 ## Extra-Curricular Activities
 - Earned income through tutoring on Chegg.com, solving advanced calculus problems.
