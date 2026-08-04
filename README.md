@@ -1,64 +1,72 @@
 # Hi, I'm Madhukar 👋
-I am a MERN Developer based in Hyderabad, India.
 
-📄 My Resume
+Software engineer and **M.Eng. Computer Science** student at the **University of Cincinnati** (graduating Dec 2026), currently building AI-assisted engineering tooling as a **Software Developer Intern at Analysis Express**. I work across the full stack — Java/Spring Boot, React/Node.js, Python — with a growing focus on applied AI and computer vision.
+
+🌐 [Portfolio](https://madhukar-eppalapelly.netlify.app/) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/madhukar-eppalapelly/) &nbsp;·&nbsp; 📧 madhukar.eppalapelly@gmail.com
+
+---
 
 ## About Me
-- 📞 Contact: +91-9133759126
-- 📍 Location: Hyderabad, India
-- 📧 Email: madhukar.eppalapelly@gmail.com
-- 🔗 LinkedIn
-- 📂 GitHub
 
-## Education
-- Bachelor of Technology in Computer Science, VNRVJIET, Hyderabad (2019-2023)
-  - CGPA: 8.02/10
-- 10+2 (Science), Sri Chaitanya Junior College, Hyderabad
-  - Percentage: 96.2%
+- 📍 Cincinnati, Ohio, USA
+- 🎓 M.Eng. Computer Science @ University of Cincinnati (Aug 2025 – Dec 2026)
+- 💼 Software Developer Intern @ Analysis Express, Inc.
+- 🎯 Open to New Grad / SWE / AI Engineer roles
 
-## Skills
-- Technical: C, C++, JavaScript, HTML, React, Angular, Node.js, SQL, MongoDB, MySQL, Git, GitHub
-- Non-Technical: Teamwork, Leadership, Critical Thinking, Problem Solving, Communication, Interpersonal Skills
+---
 
-## Work Experience
+## 🛠️ Skills
 
-### Associate Software Engineer at Jaguar Software India (Feb 2024 - Present)
--  Developed and maintained Java microservices and Spring Boot applications.
--  Contributed to the front-end development using AngularJS, JavaScript, HTML5, and responsive CSS frame works
-  
-### React Frontend Developer at Sakhyaa.com (Aug 2021 - Nov 2021)
-- Designed landing page for the website.
-- Collaborated with cross-functional teams and met project deadlines.
-- Utilized Git, npm, yarn, and webpack.
+**Languages:** Python · Java · C++ · C# · JavaScript · TypeScript · SQL
 
-### Node.js Developer at Seneca Global (Feb 2023 - Apr 2023)
-- Developed and maintained RESTful API services using Node.js, Express.js, and MongoDB.
-- Ensured security using Joi, bcrypt, and JWT.
-- Installed new API endpoints for internal web applications.
+**Frameworks & Libraries:** Spring Boot · React · Node.js · Angular · Flask · Redux Toolkit · Jest
 
-## Projects
-- Personal Portfolio: [https://madhukar-eppalapelly.netlify.app/]
+**AI / ML:** PyTorch · TensorFlow · Keras · OpenAI API · Claude API · Computer Vision · YOLO · NLP
 
-- Delish Restaurant: [https://github.com/madhukar6143/delishbackend] | [https://delish-restaurant.netlify.app/]
-  - Full-stack restaurant application using Angular, Express, and Node.js.
+**Databases:** PostgreSQL · MongoDB · DynamoDB · Redis · Firebase · Kafka · Spark
 
-- SymptoDiag Disease Prediction: Source Code | [https://disease-prediction-seneca-project.netlify.app]
-  - Collaborated on a Node.js project for disease prediction.
+**Tools & Cloud:** Docker · Kubernetes · GitHub Actions · ArgoCD · Jenkins · AWS · Azure · OCI
 
-- Aviation Website: Source Code | [https://aviation-components.netlify.app/]
-  - Full-stack  application using React, Express, and Node.js.
+---
 
-- Speech Detection from Lip Sync using Deep Learning
-  - Developed a system to accurately detect spoken words based on lip movements.
+## 🎓 Education
 
-- Coding Calendar: [https://contest-calendar.netlify.app/#/home]
-  - Created a coding contest calendar application using the MEAN stack.
+**M.Eng., Computer Science** — University of Cincinnati &nbsp;·&nbsp; *Aug 2025 – Dec 2026*
 
-- To Do with Redux: | [https://todo-practice-redux.netlify.app/]
+---
 
-## Extra-Curricular Activities
-- Earned income through tutoring on Chegg.com, solving advanced calculus problems.
-- Secured district rank 1 in an exam conducted by Vision 40 IIT Academy.
-- Completed 34 Pramp sessions to enhance skills in data structures and communication for technical interviews.
-- Accomplished cricketer with the ability to bowl continuously at 130 km/hr.
-- Played 1566 games of chess on Chess.com, achieving a highest rating of 999.
+## 💼 Experience
+
+### Software Developer Intern — Analysis Express, Inc. &nbsp;·&nbsp; *May 2026 – Present*
+- Developing AI-assisted engineering drawing analysis features on the **IrisX** platform, including a dynamic Excel export engine with template-driven generation for FAI/PDM reports.
+- Implemented **GD&T validation** against rule catalogs to automate compliance checks previously done manually.
+- Built a **revision comparison pipeline** using anchor-transform matching to detect geometric changes across drawing versions; investigated YOLO/OCR approaches for drawing extraction.
+- Contributed to UI redesign and ongoing model-training workflows for production deployment.
+
+### Associate Software Engineer — Jaguar Software India &nbsp;·&nbsp; *Feb 2024 – Jul 2025*
+- Developed and maintained **Java microservices with Spring Boot** — modular service layers and RESTful APIs for account services, fund transfers, and transaction history across banking modules.
+- Built responsive front-ends with **AngularJS**, JavaScript, and modern CSS, improving cross-browser consistency across the client-facing banking app.
+- Designed and optimized **PostgreSQL** schemas, queries, stored procedures, and indexing for high-availability transaction processing.
+- Deployed Spring Boot services on **Azure** via App Services and Azure DevOps CI/CD, with JUnit/Mockito testing in an Agile/Scrum workflow.
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Gmail-to-Telegram Agentic Workflow
+An agentic pipeline that ingests Gmail notifications via Google Pub/Sub webhooks, uses **Claude AI** to score emails 1–10 with smart filtering (penalizing no-reply senders, unsubscribe links, and promotional content), and autonomously forwards high-signal messages to Telegram via a Flask webhook server deployed on Render.
+`Python` `Claude API` `Flask` `Google Pub/Sub`
+
+### 🏥 RE-MEDI — Cloud-Native Healthcare App
+A React + Spring Boot + PostgreSQL application deployed on **Oracle Cloud Infrastructure** using Kubernetes, Docker, and Infrastructure-as-Code across on-prem and multi-cloud (AWS, Azure) environments, with CI/CD through GitHub Actions and ArgoCD.
+`React` `Spring Boot` `Kubernetes` `ArgoCD` `PostgreSQL`
+
+### 🖼️ Old Photo Restoration — Dual Variational Autoencoders
+A **dual-VAE system in PyTorch** that restores aged photographs by removing scratches and dust and reconstructing missing regions, using two separate encoder-decoder paths to handle distinct degradation types and improve reconstruction quality over a single-model baseline.
+`PyTorch` `Computer Vision` `Deep Learning`
+
+---
+
+## 📊 GitHub Stats
+
+![Madhukar's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhukar6143&show_icons=true&theme=default)
