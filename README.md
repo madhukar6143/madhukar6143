@@ -8,7 +8,7 @@ Software engineer and **M.Eng. Computer Science** student at the **University of
 
 ## About Me
 
-- 📍 Cincinnati, Ohio, USA
+- 📍 SanJose, california, USA
 - 🎓 M.Eng. Computer Science @ University of Cincinnati (Aug 2025 – Dec 2026)
 - 💼 Software Developer Intern @ Analysis Express, Inc.
 - 🎯 Open to New Grad / SWE / AI Engineer roles
@@ -48,6 +48,12 @@ Software engineer and **M.Eng. Computer Science** student at the **University of
 - Built responsive front-ends with **AngularJS**, JavaScript, and modern CSS, improving cross-browser consistency across the client-facing banking app.
 - Designed and optimized **PostgreSQL** schemas, queries, stored procedures, and indexing for high-availability transaction processing.
 - Deployed Spring Boot services on **Azure** via App Services and Azure DevOps CI/CD, with JUnit/Mockito testing in an Agile/Scrum workflow.
+
+### Technical Associate Software — Eron Infoways &nbsp;·&nbsp; *May 2020 – Feb 2024*
+- Architected scalable microservices with **Node.js, Express, and TypeScript** on AWS (EC2, S3, Lambda), decomposing legacy monoliths into containerized Docker services.
+- Built and migrated responsive **React** interfaces using Hooks and Redux Toolkit, integrating REST APIs with Redis caching to cut latency for 1,000+ daily users.
+- Designed secure backend APIs connecting client portals to PostgreSQL and enterprise workflow systems (ServiceNow), using JWT/OAuth 2.0 and role-based access control.
+- Engineered CI/CD pipelines with **GitHub Actions** and automated testing via Jest and React Testing Library, integrating Stripe payment APIs.
 
 ---
 
